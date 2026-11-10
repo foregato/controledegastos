@@ -1,4 +1,11 @@
+/**
+ * Copyright (c) 2026 Arthur Araujo and contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 export const DRIZZLE_SCHEMA_CODE = `// src/db/schema.ts
+// Copyright (c) 2026 Arthur Araujo and contributors
+// SPDX-License-Identifier: Apache-2.0
 // Drizzle ORM PostgreSQL Schema — Multi-Tenant Personal Finance & Predictability SaaS
 import {
   pgTable,

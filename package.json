@@ -1,7 +1,28 @@
 {
-  "name": "react-example",
-  "private": true,
-  "version": "0.0.0",
+  "name": "fluxocaixa-pro",
+  "version": "1.0.0",
+  "description": "Plataforma SaaS Open Source mobile-first de Gestão Financeira Pessoal e Previsibilidade Mensal de Caixa.",
+  "license": "Apache-2.0",
+  "author": "Arthur Araujo and contributors",
+  "homepage": "https://github.com/arthur-araujo/fluxocaixa-pro#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthur-araujo/fluxocaixa-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arthur-araujo/fluxocaixa-pro/issues"
+  },
+  "keywords": [
+    "personal-finance",
+    "cash-flow",
+    "financial-predictability",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "drizzle-orm",
+    "postgresql",
+    "open-source"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",

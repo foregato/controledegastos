@@ -1,0 +1,52 @@
+FluxoCaixa Pro — Gestão Financeira Pessoal & Previsibilidade Mensal
+Copyright (c) 2026 Arthur Araujo and contributors
+
+This product includes software developed by Arthur Araujo and open-source contributors
+as part of the FluxoCaixa Pro project (https://github.com/arthur-araujo/fluxocaixa-pro).
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+================================================================================
+Third-Party Software Attributions & Open Source Dependencies
+================================================================================
+
+This project incorporates and depends on the following open-source components:
+
+1. React & React DOM (https://react.dev/)
+   - Copyright (c) Meta Platforms, Inc. and affiliates.
+   - License: MIT License
+
+2. Vite & @vitejs/plugin-react (https://vite.dev/)
+   - Copyright (c) VoidZero Inc. and Vite contributors.
+   - License: MIT License
+
+3. Tailwind CSS & @tailwindcss/vite (https://tailwindcss.com/)
+   - Copyright (c) Tailwind Labs, Inc.
+   - License: MIT License
+
+4. Lucide React Icons (https://lucide.dev/)
+   - Copyright (c) Lucide Contributors (colebemis and contributors).
+   - License: ISC License
+
+5. Motion (https://motion.dev/)
+   - Copyright (c) Motion Division.
+   - License: MIT License
+
+6. Drizzle ORM Reference Schema Patterns (https://orm.drizzle.team/)
+   - Copyright (c) Drizzle Team.
+   - License: Apache License 2.0
+
+7. Express (https://expressjs.com/)
+   - Copyright (c) OpenJS Foundation and other contributors.
+   - License: MIT License
+
+8. TypeScript (https://www.typescriptlang.org/)
+   - Copyright (c) Microsoft Corporation.
+   - License: Apache License 2.0
+
+9. Google Fonts (Plus Jakarta Sans, DM Sans, JetBrains Mono)
+   - License: SIL Open Font License 1.1 (OFL-1.1)

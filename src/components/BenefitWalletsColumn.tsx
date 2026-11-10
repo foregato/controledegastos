@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 Arthur Araujo and contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 import React, { useState } from 'react';
 import {
   CreditCard,

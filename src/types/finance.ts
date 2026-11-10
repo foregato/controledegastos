@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 Arthur Araujo and contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 export type PaymentMethod = 'pix' | 'credit' | 'debit' | 'boleto' | 'cash';
 
 export type PaymentStatus = 'pending' | 'paid' | 'exempt';

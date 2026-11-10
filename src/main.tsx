@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2026 Arthur Araujo and contributors
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 import {createRoot} from 'react-dom/client';
 import App from './App.tsx';
 import './index.css';
