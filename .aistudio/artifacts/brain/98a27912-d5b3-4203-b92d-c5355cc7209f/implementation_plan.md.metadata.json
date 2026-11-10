@@ -1,6 +1,0 @@
-{
-  "summary":  "Plano arquitetural e de experiência do usuário para a plataforma SaaS de Gestão Financeira Pessoal e Previsibilidade Mensal (FluxoCaixa Pro), cobrindo o modelo de domínio de 5 pilares, automação de rollover mensal, esquema PostgreSQL/Drizzle ORM multi-tenant com RLS e design mobile-first adaptável (Light/Dark).",
-  "updatedAt":  "2026-11-10T14:06:33.442370383Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}
