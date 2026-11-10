@@ -1,0 +1,6 @@
+{
+  "name": "FluxoCaixa Pro — Gestão Financeira & Previsibilidade Mensal",
+  "description": "Plataforma SaaS mobile-first de gestão financeira pessoal, controle de contas fixas/parceladas, microgastos diários, carteiras de benefícios (VR/VA) e previsibilidade de caixa mensal com rollover automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
